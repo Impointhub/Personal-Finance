@@ -1,0 +1,4 @@
+# Architecture Decision Records
+
+<table><thead><tr><th width="105.22216796875">ADR</th><th>Topic</th></tr></thead><tbody><tr><td><a href="adr-001.md#adr-001-direct-payment-dapat-diposting-tanpa-payment-order">ADR#001</a></td><td>Direct Payment Dapat Diposting Tanpa Payment Order</td></tr><tr><td><a href="adr-002.md#adr-002-approval-pada-bank-out">ADR#002</a></td><td>Apakah fitur approval perlu ditambahkan pada Bank Out.</td></tr><tr><td><a href="adr-003.md#adr-003-fitur-edit-pada-bank-in-tanpa-approval">ADR#003</a></td><td>Apakah Bank In perlu approval, dan apakah user perlu bisa mengedit data Bank In.</td></tr><tr><td><a href="adr-004.md#adr-004-saldo-kas-dan-bank-boleh-minus">ADR#004</a></td><td>Apakah saldo kas dan bank boleh bernilai minus saat transaksi diinput.</td></tr></tbody></table>
+
